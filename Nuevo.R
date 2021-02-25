@@ -64,4 +64,9 @@ ventas = data.frame(ClienteId = c(1, 2, 3, 5),
                     
                     
                     hola esto es nuevo
+                    
+                    
+                    
+                    
+                    mas cosas nuevas
                     Monto = c(110, 50, 60, 90))
